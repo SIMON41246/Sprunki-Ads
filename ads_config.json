@@ -6,8 +6,8 @@
       "ca-app-pub-3940256099942544/4411468910"
     ],
     "pangle": [
-      "980088186",  // Vertical - Server Bidding
-      "980099797"   // Horizontal - Server Bidding
+      "980088186",  
+      "980099797"   
     ]
   },
   "native": {
@@ -16,8 +16,8 @@
       "ca-app-pub-3940256099942544/3986624511"
     ],
     "pangle": [
-      "980088198",  // Server Bidding
-      "980088216"   // Waterfall
+      "980088198",  
+      "980088216"   
     ]
   },
   "banner": {
@@ -27,10 +27,10 @@
       "ca-app-pub-3940256099942544/2934735716"
     ],
     "pangle": [
-      "980088194",  // 300*250 - Server Bidding
-      "980099803",  // 320*50 - Server Bidding
-      "980088196",  // 300*250 - Waterfall
-      "980099802"   // 320*50 - Waterfall
+      "980088194",  
+      "980099803",  
+      "980088196",  
+      "980099802"   
     ]
   },
   "reward": {
@@ -40,10 +40,10 @@
       "ca-app-pub-3940256099942544/1712485313"
     ],
     "pangle": [
-      "980088190",  // Vertical - Server Bidding
-      "980099800",  // Horizontal - Server Bidding
-      "980088192",  // Vertical - Waterfall
-      "980099801"   // Horizontal - Waterfall
+      "980088190",  
+      "980099800",  
+      "980088192",  
+      "980099801"   
     ]
   },
   "app_open": {
@@ -52,10 +52,10 @@
       "ca-app-pub-3940256099942544/5575463023"
     ],
     "pangle": [
-      "890008769",  // Vertical - Server Bidding
-      "890008770",  // Horizontal - Server Bidding
-      "890000078",  // Vertical - Waterfall
-      "890000079"   // Horizontal - Waterfall
+      "890008769", 
+      "890008770",  
+      "890000078", 
+      "890000079"   
     ]
   }
 }
