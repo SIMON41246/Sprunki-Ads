@@ -3,5 +3,5 @@
   "reward": { "enabled": true, "admob": [], "pangle": ["980088192"] },
   "native": { "enabled": true, "admob": [], "pangle": ["980088216"] },
   "banner": { "enabled": true, "admob": [], "pangle": ["980088196"] },
-  "app_open": { "enabled": true, "admob": [], "pangle": ["890000078"] }
+  "app_open": { "enabled": true, "admob": [], "pangle": ["890008769"] }
 }
