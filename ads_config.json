@@ -1,60 +1,27 @@
 {
   "interstitial": {
     "enabled": true,
-    "admob": [
-      "ca-app-pub-3940256099942544/4"
-    ],
-    "pangle": [
-      "981605354",  
-      "981605354"   
-    ]
-  },
-  "native": {
-    "enabled": true,
-    "admob": [
-      "ca-app-pub-3940256099942544/39866"
-    ],
-    "pangle": [
-      "982163874",  
-      "982163874"   
-    ]
-  },
-  "banner": {
-    "enabled": true,
-    "admob": [
-      "ca-app-pub-3940256099942544/630097",
-      "ca-app-pub-3940256099942544/293473"
-    ],
-    "pangle": [
-      "982163879",  
-      "982163879",  
-      "982163879",  
-      "982163879"   
-    ]
+    "admob": [],
+    "pangle": ["981605354"]
   },
   "reward": {
     "enabled": true,
-    "admob": [
-      "ca-app-pub-3940256099942544/5224354917",
-      "ca-app-pub-3940256099942544/1712485313"
-    ],
-    "pangle": [
-      "980088190",  
-      "980099800",  
-      "980088192",  
-      "980099801"   
-    ]
+    "admob": [],
+    "pangle": ["981605355"]
+  },
+  "native": {
+    "enabled": true,
+    "admob": [],
+    "pangle": ["981605356"]
+  },
+  "banner": {
+    "enabled": true,
+    "admob": [],
+    "pangle": ["982163879"]
   },
   "app_open": {
-    "enabled": true,
-    "admob": [
-      "ca-app-pub-3940256099942544/5575463023"
-    ],
-    "pangle": [
-      "890008769", 
-      "890008770",  
-      "890000078", 
-      "890000079"   
-    ]
+    "enabled": false,
+    "admob": [],
+    "pangle": []
   }
 }
