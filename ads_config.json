@@ -5,7 +5,7 @@
       "ca-app-pub-3940256099942544/4"
     ],
     "pangle": [
-      "945234720"  // ✅ Pangle test interstitial
+      "945234720"
     ]
   },
   "native": {
@@ -14,7 +14,7 @@
       "ca-app-pub-3940256099942544/39866"
     ],
     "pangle": [
-      "945234723"  // ✅ Pangle test native
+      "945234723"
     ]
   },
   "banner": {
@@ -24,7 +24,7 @@
       "ca-app-pub-3940256099942544/293473"
     ],
     "pangle": [
-      "945234721"  // ✅ Pangle test banner
+      "945234721"
     ]
   },
   "reward": {
@@ -34,7 +34,7 @@
       "ca-app-pub-3940256099942544/1712485313"
     ],
     "pangle": [
-      "945234722"  // ✅ Pangle test rewarded
+      "945234722"
     ]
   },
   "app_open": {
@@ -43,7 +43,7 @@
       "ca-app-pub-3940256099942544/5575463023"
     ],
     "pangle": [
-      "945234720"  // ✅ Reuse test interstitial as app open for testing
+      "945234720"
     ]
   }
 }
