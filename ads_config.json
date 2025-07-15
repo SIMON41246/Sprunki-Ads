@@ -1,7 +1,7 @@
 {
-  "interstitial": { "enabled": false, "admob": [], "pangle": ["980088188"] },
-  "reward": { "enabled": false, "admob": [], "pangle": ["980088192"] },
-  "native": { "enabled": false, "admob": [], "pangle": ["980088216"] },
-  "banner": { "enabled": false, "admob": [], "pangle": ["980088196"] },
+  "interstitial": { "enabled": true, "admob": [], "pangle": ["980088188"] },
+  "reward": { "enabled": true, "admob": [], "pangle": ["980088192"] },
+  "native": { "enabled": true, "admob": [], "pangle": ["980088216"] },
+  "banner": { "enabled": true, "admob": [], "pangle": ["980088196"] },
   "app_open": { "enabled": false, "admob": [], "pangle": ["890008769","890000078"] }
 }
